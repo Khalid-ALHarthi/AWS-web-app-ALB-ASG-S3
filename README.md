@@ -3,7 +3,7 @@ SDA2024
 important steps 
 PERMISSIONS > BLOCK PUBLIC ACCESS > UNCHECKED 
 
-PERMISSIONS > BUCKET POLICY > can be generated using 
+PERMISSIONS > BUCKET POLICY > 
 {
     "Version": "2012-10-17",
     "Statement": [
